@@ -1,0 +1,7 @@
+# Material properties
+
+# Mat	Young's(E)	Poisson
+
+0	0	0
+1	200000000000	0.2
+2	300000000000	0.3	
